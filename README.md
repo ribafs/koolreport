@@ -10,3 +10,6 @@ O outro está aqui e com boas novidades:
 
 https://github.com/ribafs/relatorios
 
+## Repositório original
+
+https://github.com/koolreport/core
