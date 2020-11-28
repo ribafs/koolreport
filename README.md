@@ -8,7 +8,7 @@ Gerando relatórios em PHP com Koolreport
 
 O outro está aqui e com boas novidades:
 
-https://github.com/ribafs/relatorios
+https://github.com/ribafs/reports
 
 ## Repositório original
 
